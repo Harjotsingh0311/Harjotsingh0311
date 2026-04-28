@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harjot Singh
 
-🎓 BTech Computer Science Student @ Thapar University
+🎓 BTech AIML @ Thapar University
 🤖 Passionate about Artificial Intelligence, Computer Vision and Machine Learning
 🚀 Building real-world AI systems and scalable data pipelines
 
