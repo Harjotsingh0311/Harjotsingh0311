@@ -219,11 +219,11 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/harjotsingh0311">
+<a href="[https://linkedin.com/in/harjotsingh0311](https://www.linkedin.com/in/harjot-singh-0311h/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:your@email.com">
+<a href="mailto:hsingh17_be24@thapar.edu">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
