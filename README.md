@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harjot%20Singh&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20ML%20Builder&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Harjot%20Singh&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Edge%20Intelligence&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=BTech+AIML+%40+Thapar+University+%F0%9F%8E%93;Real-Time+Computer+Vision+Systems+%F0%9F%91%81%EF%B8%8F;Deep+Learning+on+Edge+Hardware+%E2%9A%A1;416M%2B+Records+Processed+%F0%9F%93%8A;CNN+%7C+YOLO+%7C+Transformers+%7C+OpenCV;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=BTech+AIML+%40+Thapar+University+%F0%9F%8E%93;Real-Time+Computer+Vision+Systems+%F0%9F%91%81%EF%B8%8F;Deep+Learning+on+Edge+Hardware+%E2%9A%A1;416M%2B+Traffic+Records+Engineered+%F0%9F%93%8A;CNN+%7C+YOLO+%7C+Transformers+%7C+OpenCV;Turning+Pixels+into+Decisions+%F0%9F%A4%96" alt="Typing SVG"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -13,21 +15,22 @@
 ```python
 class HarjotSingh:
     def __init__(self):
-        self.name        = "Harjot Singh"
-        self.degree      = "BTech AIML  →  Thapar University"
-        self.location    = "Punjab, India 🇮🇳"
-        self.interests   = [
-            "Computer Vision",
-            "Deep Learning & CNNs",
-            "Edge AI (Jetson Nano)",
-            "Scalable Data Pipelines",
-            "Real-Time AI Systems",
+        self.name       = "Harjot Singh"
+        self.degree     = "BTech AIML  →  Thapar University"
+        self.location   = "Punjab, India 🇮🇳"
+        self.obsessions = [
+            "Real-Time Computer Vision",
+            "Deep Learning & CNN Architectures",
+            "Edge AI on Jetson Nano ⚡",
+            "Scalable Data Engineering Pipelines",
+            "Object Detection & Scene Understanding",
         ]
-        self.superpower  = "Turning raw pixels into intelligent decisions 👁️"
-        self.fun_fact    = "I once wrangled 416M+ traffic records... and lived 😅"
+        self.superpower = "Turning raw pixels into intelligent decisions 👁️"
+        self.fun_fact   = "I once wrangled 416M+ traffic records... and lived 😅"
+        self.currently  = "Pushing YOLO beyond detection 🚀"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something extraordinary 🤖")
+        print("Thanks for stopping by — let's build something extraordinary 🤖")
 
 me = HarjotSingh()
 me.say_hi()
@@ -37,23 +40,21 @@ me.say_hi()
 
 ## ⚙️ Tech Arsenal
 
-<!-- ───────────── LANGUAGES ───────────── -->
-<details open>
-<summary><b>👨‍💻 &nbsp;Programming Languages</b></summary>
 <br/>
+
+### 👨‍💻 &nbsp; Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-</details>
+---
 
-<!-- ───────────── AI / ML ───────────── -->
-<details open>
-<summary><b>🧠 &nbsp;Artificial Intelligence & Machine Learning</b></summary>
-<br/>
+### 🧠 &nbsp; AI / Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -64,39 +65,31 @@ me.say_hi()
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-</details>
+---
 
-<!-- ───────────── COMPUTER VISION ───────────── -->
-<details open>
-<summary><b>👁️ &nbsp;Computer Vision</b></summary>
-<br/>
+### 👁️ &nbsp; Computer Vision
 
 <p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
   <img src="https://img.shields.io/badge/Object%20Detection-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Image%20Processing-06B6D4?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ultralytics-1F8ACB?style=for-the-badge&logo=ultralytics&logoColor=white"/>
 </p>
 
-</details>
+---
 
-<!-- ───────────── EDGE / HARDWARE ───────────── -->
-<details open>
-<summary><b>⚡ &nbsp;Edge AI & Hardware</b></summary>
-<br/>
+### ⚡ &nbsp; Edge AI & Hardware
 
 <p>
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Edge%20AI%20Deployment-1a1a2e?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Edge%20AI%20Deployment-1a1a2e?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
 </p>
 
-</details>
+---
 
-<!-- ───────────── DATA & TOOLS ───────────── -->
-<details open>
-<summary><b>📊 &nbsp;Data, Tools & DevOps</b></summary>
-<br/>
+### 📊 &nbsp; Data, Tools & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -107,93 +100,51 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-</details>
-
-<!-- ───────────── WEB ───────────── -->
-<details open>
-<summary><b>🌐 &nbsp;Web Development</b></summary>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-</details>
-
----
-
-## 🧩 Skill Matrix
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    🧠  AI / ML  LAYER                           ║
-║                                                                  ║
-║   CNN              ████████████████████░░░░  Expert             ║
-║   YOLO             ████████████████████░░░░  Expert             ║
-║   Transfer Learn   ██████████████████░░░░░░  Advanced           ║
-║   Transformers     ████████████████░░░░░░░░  Intermediate       ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                    👁️  COMPUTER VISION  LAYER                   ║
-║                                                                  ║
-║   OpenCV           ████████████████████████  Expert             ║
-║   Object Detect    ████████████████████░░░░  Expert             ║
-║   Image Processing ██████████████████░░░░░░  Advanced           ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                    ⚡  EDGE AI  LAYER                            ║
-║                                                                  ║
-║   Jetson Nano      ███████████████████░░░░░  Advanced           ║
-║   CUDA / GPU       ████████████████░░░░░░░░  Intermediate       ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                    🔧  ENGINEERING  LAYER                       ║
-║                                                                  ║
-║   Python           ████████████████████████  Expert             ║
-║   Docker           ██████████████████░░░░░░  Advanced           ║
-║   C++              ████████████████░░░░░░░░  Intermediate       ║
-║   Data Pipelines   ███████████████████░░░░░  Advanced           ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🚦 Smart Traffic Monitoring System
-> *Real-time intelligence for India's roads*
+<br/>
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  INPUT         →    ENGINE          →    OUTPUT         │
-│  📷 Camera          YOLOv8 Model         📊 Density    │
-│  📹 Live Feed  →    OpenCV Pipeline  →   🚗 Count      │
-│  🎞️ Video           Python Backend        ⚠️  Alerts   │
-└─────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║  🚦  SMART TRAFFIC MONITORING SYSTEM                                ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   📷 Live Camera Feed                                                ║
+║        └─▶  YOLOv8 Detection Engine                                 ║
+║                 └─▶  OpenCV Processing Pipeline                      ║
+║                          └─▶  📊 Density Maps                       ║
+║                               🚗 Vehicle Count                      ║
+║                               ⚠️  Congestion Alerts                 ║
+║                                                                      ║
+║   Real-time intelligence built for India's roads                     ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Real--Time-FF4444?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Real--Time-FF4444?style=flat-square"/>
 </p>
 
----
-
-### 🧳 X-Ray Dangerous Object Detection
-> *Deep learning meets airport security*
+<br/>
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  SCAN INPUT    →    CNN BACKBONE    →    DETECTION      │
-│  🔬 X-Ray           YOLOv8 Model         🔫 Weapons    │
-│  📁 Image      →    Transfer Learn  →    💣 Threats    │
-│  🎯 ROI Crop        Fine-tuned           ✅ Safe Items  │
-└─────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║  🧳  X-RAY DANGEROUS OBJECT DETECTION                               ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   🔬 X-Ray Scan Input                                               ║
+║        └─▶  CNN Backbone + Transfer Learning                        ║
+║                 └─▶  YOLOv8 Fine-Tuned Model                        ║
+║                          └─▶  🔫 Weapons Detected                   ║
+║                               💣 Threats Flagged                    ║
+║                               ✅  Safe Items Cleared                ║
+║                                                                      ║
+║   Deep learning meets airport security screening                     ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <p>
@@ -203,18 +154,22 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 
----
-
-### 📊 Traffic Challan Data Engineering Pipeline
-> *Processing India's traffic violations at massive scale*
+<br/>
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  SOURCE        →    TRANSFORM       →    OUTPUT         │
-│  📦 Raw CSVs        🧹 Clean              📊 Dashboard  │
-│  416M Records  →    🔄 Normalise    →    📈 Analytics  │
-│  Raw E-Challans     🐳 Docker            🔍 Insights   │
-└─────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║  📊  TRAFFIC CHALLAN DATA ENGINEERING PIPELINE                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   📦 416M+ Raw E-Challan Records                                    ║
+║        └─▶  🧹 Deduplication & Normalisation                       ║
+║                 └─▶  🐳 Dockerised ETL Pipeline                    ║
+║                          └─▶  📊 Analytics Dashboard               ║
+║                               📈 Traffic Trend Reports              ║
+║                               🔍 Anomaly Insights                  ║
+║                                                                      ║
+║   One of India's largest traffic datasets — tamed                   ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <p>
@@ -227,24 +182,30 @@ me.say_hi()
 
 ---
 
-## 🔥 What I'm Building Next
+## 🔭 What I'm Building Next
+
+<br/>
 
 <table>
   <tr>
-    <td align="center">🧠</td>
-    <td><b>Advanced CV Systems</b> — pushing YOLO beyond detection</td>
+    <td>🧠</td>
+    <td><b>Advanced CV Systems</b></td>
+    <td>Pushing YOLO beyond detection — segmentation, pose, tracking</td>
   </tr>
   <tr>
-    <td align="center">⚡</td>
-    <td><b>Edge Deployment</b> — running models on Jetson Nano in real-time</td>
+    <td>⚡</td>
+    <td><b>Edge Deployment</b></td>
+    <td>Running optimised models on Jetson Nano in real-time</td>
   </tr>
   <tr>
-    <td align="center">🔄</td>
-    <td><b>Transformer Research</b> — attention mechanisms for vision tasks</td>
+    <td>🔄</td>
+    <td><b>Transformer Research</b></td>
+    <td>Attention mechanisms & Vision Transformers (ViT)</td>
   </tr>
   <tr>
-    <td align="center">📦</td>
-    <td><b>ML Pipelines</b> — scalable, Dockerised, production-ready</td>
+    <td>📦</td>
+    <td><b>Production ML Pipelines</b></td>
+    <td>Scalable, Dockerised, end-to-end deployable systems</td>
   </tr>
 </table>
 
@@ -269,14 +230,14 @@ me.say_hi()
 <br/><br/>
 
 > *"Any sufficiently advanced AI is indistinguishable from magic."*
-> — and I'm here to build the magic. 🪄
+> — and I'm here to build the magic 🪄
 
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br/>
 
 **⭐ Star a repo if something inspires you — it genuinely means a lot!**
+
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
