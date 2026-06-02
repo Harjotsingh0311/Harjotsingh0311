@@ -46,14 +46,17 @@ me.say_hi()
 
 ---
 
-## 🗺️ My Learning Journey
+## 🎯 Current Focus
 
 ```
-NLP Fundamentals  →  GenAI Fundamentals  →  RAG Projects  →  Hugging Face
-       ↓                                                           ↓
-  [Completed ✅]                                          [In Progress 🔄]
-                                                               ↓
-             Production Deployment  ←  Agentic AI  ←  LangGraph  ←  Advanced RAG
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   🧠  NLP & Text Understanding      🔗  LangChain Ecosystem         │
+│   💬  Large Language Models         🕸️  LangGraph & Agents          │
+│   📚  RAG Pipeline Engineering      🤗  Hugging Face Models         │
+│   🔍  Advanced Retrieval Systems    ☁️  Cloud & Production Deploy   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -100,8 +103,6 @@ NLP Fundamentals  →  GenAI Fundamentals  →  RAG Projects  →  Hugging Face
   <img src="https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
-**NLP Concepts Mastered:**
-`Tokenization` · `Stemming` · `Lemmatization` · `Stopwords` · `POS Tagging` · `NER` · `One-Hot Encoding` · `Bag of Words` · `Word Embeddings` · `Word2Vec` · `Average Word2Vec` · `Skip-Gram`
 
 ---
 
@@ -115,9 +116,6 @@ NLP Fundamentals  →  GenAI Fundamentals  →  RAG Projects  →  Hugging Face
   <img src="https://img.shields.io/badge/Tool%20Calling-F97316?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector%20DBs-0EA5E9?style=for-the-badge&logo=pinecone&logoColor=white"/>
 </p>
-
-**GenAI Concepts Covered:**
-`RAG` · `Document Loading` · `Chunking` · `Embeddings` · `Similarity Search` · `Context Injection` · `Chains` · `Prompt Templates` · `Conversational QA` · `Memory` · `Agents` · `LangGraph` · `Local AI Workflows`
 
 ---
 
