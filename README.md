@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Harjot%20Singh&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=GenAI%20%26%20Agentic%20AI%20Engineer%20%E2%80%A2%20NLP%2FRAG%20%E2%80%A2%20CV%20%26%20Edge%20AI&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Pre-Final+Year+BTech+AIML+%40+Thapar+%F0%9F%8E%93;Building+Federated+Learning+for+Medical+AI+%F0%9F%A9%BA;Agentic+AI+%26+RAG+Pipeline+Architect+%F0%9F%A4%96;SATHACK+2025+Hackathon+Finalist+%F0%9F%8F%86;Real-Time+Computer+Vision+%26+Edge+AI+%E2%9A%A1;Turning+Pixels%2C+Tokens+%26+Data+into+Decisions+%E2%9C%A8" />
 
@@ -250,6 +250,6 @@ me.say_hi()
 
 **⭐ Star a repo if something inspires you — it genuinely means a lot!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
 
 </div>
